@@ -63,7 +63,7 @@ The global OKR (Objectives & Key Results) software market size is estimated at *
 
 ## 🔓 Open-Source GitHub Projects & Self-Hosted Tools 💻
 
-*Sorted by GitHub Star Count (Descending)* 🌟
+*Sorted by GitHub Stars_Count (Descending)* 🌟
 
 - **[OpenProject](https://github.com/opf/openproject)** [![Stars](https://img.shields.io/github/stars/opf/openproject?style=social&color=white)](https://github.com/opf/openproject/stargazers)  
   **Mature open-source project management software with OKR module**, GPL-3.0 licensed. Full OKR tracking integrated with Gantt charts, agile boards, time tracking, and work packages. Free community edition for self-hosting. 🏗️
@@ -112,7 +112,7 @@ Contributions are welcome! Follow these steps to submit new OKR platforms or ope
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact star count, license, and detailed description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Count, license, and detailed description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 ---
